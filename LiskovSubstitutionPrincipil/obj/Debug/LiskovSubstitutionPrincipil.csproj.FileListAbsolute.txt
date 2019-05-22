@@ -1,0 +1,7 @@
+C:\Users\Andile.Ngubane\source\repos\LiskovSubstitutionPrincipil\LiskovSubstitutionPrincipil\bin\Debug\LiskovSubstitutionPrincipil.exe.config
+C:\Users\Andile.Ngubane\source\repos\LiskovSubstitutionPrincipil\LiskovSubstitutionPrincipil\bin\Debug\LiskovSubstitutionPrincipil.exe
+C:\Users\Andile.Ngubane\source\repos\LiskovSubstitutionPrincipil\LiskovSubstitutionPrincipil\bin\Debug\LiskovSubstitutionPrincipil.pdb
+C:\Users\Andile.Ngubane\source\repos\LiskovSubstitutionPrincipil\LiskovSubstitutionPrincipil\obj\Debug\LiskovSubstitutionPrincipil.csprojAssemblyReference.cache
+C:\Users\Andile.Ngubane\source\repos\LiskovSubstitutionPrincipil\LiskovSubstitutionPrincipil\obj\Debug\LiskovSubstitutionPrincipil.csproj.CoreCompileInputs.cache
+C:\Users\Andile.Ngubane\source\repos\LiskovSubstitutionPrincipil\LiskovSubstitutionPrincipil\obj\Debug\LiskovSubstitutionPrincipil.exe
+C:\Users\Andile.Ngubane\source\repos\LiskovSubstitutionPrincipil\LiskovSubstitutionPrincipil\obj\Debug\LiskovSubstitutionPrincipil.pdb
